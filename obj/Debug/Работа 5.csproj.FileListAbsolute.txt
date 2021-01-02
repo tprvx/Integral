@@ -1,0 +1,10 @@
+C:\Users\petr\source\repos\Работа 5\Работа 5\bin\Debug\Работа 5.exe.config
+C:\Users\petr\source\repos\Работа 5\Работа 5\bin\Debug\Работа 5.exe
+C:\Users\petr\source\repos\Работа 5\Работа 5\bin\Debug\Работа 5.pdb
+C:\Users\petr\source\repos\Работа 5\Работа 5\obj\Debug\Работа_5.Properties.Resources.resources
+C:\Users\petr\source\repos\Работа 5\Работа 5\obj\Debug\Работа 5.csproj.GenerateResource.cache
+C:\Users\petr\source\repos\Работа 5\Работа 5\obj\Debug\Работа 5.csproj.CoreCompileInputs.cache
+C:\Users\petr\source\repos\Работа 5\Работа 5\obj\Debug\Работа 5.exe
+C:\Users\petr\source\repos\Работа 5\Работа 5\obj\Debug\Работа 5.pdb
+C:\Users\petr\source\repos\Работа 5\Работа 5\obj\Debug\Работа 5.csprojAssemblyReference.cache
+C:\Users\petr\source\repos\Работа 5\Работа 5\obj\Debug\Работа_5.Form1.resources
